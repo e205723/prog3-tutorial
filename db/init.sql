@@ -1,0 +1,5 @@
+CREATE TABLE todo_list (
+    id SERIAL PRIMARY KEY,
+    item_name VARCHAR(255) NOT NULL,
+    is_done BOOLEAN NOT NULL DEFAULT FALSE
+);

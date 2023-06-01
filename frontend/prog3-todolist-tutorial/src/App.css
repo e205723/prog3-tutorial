@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  padding: 1em;
+}
+
+button {
+  margin: 1em;
+}
+
+ul {
+  list-style: none;
+}
+
+input[type="checkbox"] {
+  margin-right: 0.5em;
+}
+
